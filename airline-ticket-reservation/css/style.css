@@ -1,0 +1,93 @@
+h1{
+	font-family: sans-serif;
+	font-style: bold;
+	font-size: 50pt;
+	color: black;
+}
+#title{
+	display: inline;
+	color: white;
+}
+
+.float_form{
+	float: left;
+}
+.center_form{
+	float: center;
+}
+
+body{
+	color: #030337;
+	font-family: sans-serif;
+	margin: 0px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+    background-color: #030337;
+}
+li{
+	display: inline;
+	float: left;
+}
+
+li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:white;
+    color: #030337;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+}
+a:hover{
+	background-color: white;
+	color: #030337;
+}
+h2{
+	padding-left: 10px;
+	font-size: 25pt;
+	font-style: bold;
+}
+.heading{
+	font-size:30pt;
+	text-align: center;
+}
+.fix_table{
+	width: 300px;
+}
+.fix_table_short{
+	width: 225px;
+}
+.welcome_text{
+	font-family: sans-serif;
+	font-size: 30pt;
+	color:#150524;
+	position: absolute;
+}
+ .admin_func:hover{
+	color: #030337;
+	font-style: italic;
+	text-decoration: underline
+} 
+.center_submit{
+	text-align: center;
+}
+h3{
+	padding-left: 30px;
+	font-size: 15pt;
+}
+.login_form{
+	float: left;
+}
